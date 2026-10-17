@@ -1,5 +1,11 @@
 # 💫 About Me:
-Yogesh Jambhale<br>Aspiring Data science| Machine Learning | Web developer | Angular | React | Front end | django
+I am the **Founder of Billwox Solutions**, a custom software, mobile app, and website development firm. I lead end-to-end product engineering—from intuitive user interfaces to scalable backends and intelligent automation systems.
+
+- 🏢 **Founder & Lead Developer:** [Billwox Solutions](https://billwox.in)
+- 💻 **What We Build:** Full-stack SaaS platforms, custom enterprise workflows, and modern web & mobile apps
+- 🛠️ **Core Stack:** Python, Django, TypeScript, Angular, REST APIs, SQL & Machine Learning
+- 🤝 **Collaborations & Inquiries:** Open to tech consulting, custom client projects, and B2B workflow solutions
+- 📫 **Direct Reach:** info.billwox@gmail.com
 
 
 ## 🌐 Socials:
